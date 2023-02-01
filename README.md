@@ -1,9 +1,7 @@
 # <h1 align="center">**`Data Analytics - Proyecto individual`**</h1>
 
 
-<p align='center'>
-<img src ="<p align='center'>
-<img src ="https://github.com/CharlyTrejo/DataAnalytics-PI03/blob/main/assets/12-recomendaciones-para-mejorar-la-ensenanza-en-linea.jpg">
+![Image text](https://github.com/CharlyTrejo/DataAnalytics-PI03/blob/main/assets/12-recomendaciones-para-mejorar-la-ensenanza-en-linea.jpg)
 
 
 
