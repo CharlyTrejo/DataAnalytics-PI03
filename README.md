@@ -3,7 +3,7 @@
 
 <p align='center'>
 <img src ="<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+<img src ="https://github.com/CharlyTrejo/DataAnalytics-PI03/blob/main/assets/12-recomendaciones-para-mejorar-la-ensenanza-en-linea.jpg">
 
 
 
