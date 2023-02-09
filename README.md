@@ -22,7 +22,7 @@ En [EDA-DataWrangling.ipynb](https://github.com/CharlyTrejo/DataAnalytics-PI03/b
 
 El código con el que se generaron los Wordclouds se encuentra disponible en [Wordcloud's.ipynb](https://github.com/CharlyTrejo/DataAnalytics-PI03/blob/main/Wordcloud's.ipynb), mismos que fueron exportados al dashboard de PowerBI. 
 
-Mientras que en [PI-03.pbix]() se encuentra disponible el Dashboard interactivo de PoverBI. 
+Mientras que en [PI-03.pbix](https://github.com/CharlyTrejo/DataAnalytics-PI03/blob/main/PI03.pbix) se encuentra disponible el Dashboard interactivo de PoverBI. 
 
 ¡Gracias por llegar hasta aquí! 
 
